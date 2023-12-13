@@ -11,7 +11,7 @@
   <br>
   <br>
   <a href="https://github.com/charlie2krazy">
-    <img src="https://discord.c99.nl/widget/theme-3/1155963665388937216.png"/>
+    <img src="https://discord.c99.nl/widget/theme-3/700694800067723285.png"/>
     </a>
 </p>
 
